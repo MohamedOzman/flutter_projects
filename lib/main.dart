@@ -49,10 +49,7 @@ class MyApp extends StatelessWidget {
                 const SizedBox(
                     // height: 16,
                     ),
-                Divider(
-                  height: 2,
-                  thickness: 1,
-                ),
+            
               ],
             ),
           ),
